@@ -32,6 +32,13 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# RPGLE (IBM RPG) source file
+*.rpgle linguist-detectable=true
+*.rpgle linguist-documentation=false
+*.rpgle linguist-language=RPGLE
+*.sqlrpgle linguist-detectable=true
+*.sqlrpgle linguist-documentation=false
+*.sqlrpgle linguist-language=RPGLE
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +171,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Monday, October 24th at 4:57 pm PST)
+# Line count (including blank lines and compiler line): 178
 # End of script
